@@ -25,7 +25,7 @@ Run the build:
 ### Current status
 
  - upload goes fine
- - *"An unknown error occurred.* - nothing in the logs
+ - startup gives *"An unknown error occurred."* - Nothing in the logs
  - tried with and without buildpack
 
 
