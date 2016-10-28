@@ -22,6 +22,11 @@ Run the build:
 
     ./build.sh
 
+### Current status
+
+ - upload goes fine
+ - *"An unknown error occurred.* - nothing in the logs
+ - tried with and without buildpack
 
 
 
