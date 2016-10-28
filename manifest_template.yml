@@ -1,0 +1,9 @@
+---
+applications:
+ - name: Nuxeo
+memory: 2048M
+disk_quota: 2048M
+timeout: 180
+command: bin/nuxeoctl console
+runtime: java
+buildpack: https://github.com/cloudfoundry/java-buildpack.git
